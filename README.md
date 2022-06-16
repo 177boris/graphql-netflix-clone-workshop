@@ -1,3 +1,9 @@
+My version is available at: https://gorgeous-syrniki-1b81ae.netlify.app/
+
+
+
+
+
 <!--- STARTEXCLUDE --->
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
