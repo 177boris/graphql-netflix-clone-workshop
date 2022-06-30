@@ -1,5 +1,4 @@
 __Author = 177boris
-My version is available at: https://gorgeous-syrniki-1b81ae.netlify.app/
 
 
 
